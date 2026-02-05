@@ -32,16 +32,19 @@ I ensure that the final work meets business expectations by viewing software thr
 ### Technical Stack
 
 **MERN Stack Development**  
-![MongoDB](https://img.shields.io) 
-![Express.js](https://img.shields.io) 
-![React](https://img.shields.io) 
-![NodeJS](https://img.shields.io)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Strategy and Operations**  
-![Jira](https://img.shields.io) 
-![Docker](https://img.shields.io) 
-![Git](https://img.shields.io) 
-![Postman](https://img.shields.io)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**etc**  
+
+**Knowing the right tool to use for it to work**  
 
 ---
 
@@ -54,3 +57,5 @@ I ensure that the final work meets business expectations by viewing software thr
 ### Contact and Collaboration
 
 [LinkedIn](https://www.linkedin.com) | [X (Twitter)](https://x.com) | [Email](mailto:YOUR_EMAIL@EXAMPLE.COM)
+
+

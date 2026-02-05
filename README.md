@@ -29,14 +29,19 @@ I ensure that the final work meets business expectations by viewing software thr
     Research-driven prototyping focused on technical feasibility and user conversion.
 
 ---
-
 ### Technical Stack
 
 **MERN Stack Development**  
-![MongoDB](https://img.shields.io) ![Express.js](https://img.shields.io) ![React](https://img.shields.io) ![NodeJS](https://img.shields.io)
+![MongoDB](https://img.shields.io) 
+![Express.js](https://img.shields.io) 
+![React](https://img.shields.io) 
+![NodeJS](https://img.shields.io)
 
 **Strategy and Operations**  
-![Jira](https://img.shields.io) ![Docker](https://img.shields.io) ![Git](https://img.shields.io) ![Postman](https://img.shields.io)
+![Jira](https://img.shields.io) 
+![Docker](https://img.shields.io) 
+![Git](https://img.shields.io) 
+![Postman](https://img.shields.io)
 
 ---
 
@@ -48,4 +53,4 @@ I ensure that the final work meets business expectations by viewing software thr
 
 ### Contact and Collaboration
 
-[LinkedIn](https://www.linkedin.com) | [Email](mailto:YOUR_EMAIL@EXAMPLE.COM)
+[LinkedIn](https://www.linkedin.com) | [X (Twitter)](https://x.com) | [Email](mailto:YOUR_EMAIL@EXAMPLE.COM)

@@ -58,6 +58,6 @@ I ensure that the final work meets business expectations by viewing software thr
 
 ### Contact and Collaboration
 
-[LinkedIn](https://www.linkedin.com) | [X (Twitter)](https://x.com) | [Email](mailto:YOUR_EMAIL@EXAMPLE.COM)
+[LinkedIn](https://www.linkedin.com/in/sire-prince/) | [X (Twitter)](https://x.com/sire_prince_7) | [Email](mailto:palpha824@gmail.com) [Personal contact](tel:0245546733)
 
 

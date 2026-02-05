@@ -50,7 +50,7 @@ I ensure that the final work meets business expectations by viewing software thr
 
 ### GitHub Ecosystem
 
-![Sire-Prince's Stats](https://github-readme-stats.vercel.app)
+![Sire-Prince's Stats](https://github-readme-stats.vercel.app/api?username=Sire-Prince&show_icons=true&theme=radical)
 
 ---
 

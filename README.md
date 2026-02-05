@@ -52,7 +52,9 @@ I ensure that the final work meets business expectations by viewing software thr
 
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sire-Prince&show_icons=true&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sire-Prince&theme=radical&no-frame=true&column=4)---
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sire-Prince&theme=radical&no-frame=true&column=4)
+
+---
 
 ### Contact and Collaboration
 

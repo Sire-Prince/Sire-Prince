@@ -50,12 +50,9 @@ I ensure that the final work meets business expectations by viewing software thr
 
 ### GitHub Ecosystem
 
-### GitHub Ecosystem
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sire-Prince&show_icons=true&theme=radical)
 
-![Sire-Prince's Stats](https://gitprofile.net/github-stats?user=Sire-Prince&theme=radical&show_icons=true)
-
-![Sire-Prince's Top Langs](https://gitprofile.net/top-langs?user=Sire-Prince&theme=radical&layout=compact)
----
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sire-Prince&theme=radical&no-frame=true&column=4)---
 
 ### Contact and Collaboration
 

@@ -1,4 +1,4 @@
-# Sire Prince 😎
+# Prince Akpadie (sire prince) 💻
 
 ### Software Developer | Agile Strategist | Business-Focused Engineer
 

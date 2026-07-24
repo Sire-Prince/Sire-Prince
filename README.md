@@ -7,7 +7,7 @@ I bridge the gap between technical execution and business strategy.
 
 ### About Me
 
-My journey into development began with a curiosity about how systems work. Today, that curiosity has evolved into a passion for building high-impact systems. 
+My journey into development began with a curiosity about how systems work. Today, that curiosity has evolved into a passion for building high-impact systems for businesses across most industries. 
 
 I ensure that the final work meets business expectations by viewing software through the lens of the user.
 

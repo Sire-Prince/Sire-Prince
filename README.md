@@ -48,9 +48,9 @@ I ensure that the final work meets business expectations by viewing software thr
 
 ### Contact
 
-LinkedIn (https://www.linkedin.com/in/sire-prince/) |
-X (Twitter)](https://x.com/sire_prince_7) |
-Email (mailto:prince.akpadie.com) |
+LinkedIn (https://www.linkedin.com/in/sire-prince/) ----------------------------------------------------------
+X (Twitter)](https://x.com/sire_prince_7) |----------------------------------------------------------
+Email (mailto:prince.akpadie@gmail.com) |----------------------------------------------------------
 WhatsApp +122245546733
 
 

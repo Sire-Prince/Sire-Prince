@@ -46,7 +46,7 @@ I ensure that the final work meets business expectations by viewing software thr
 
 ---
 
-### Contact and Collaboration
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/sire-prince/) |
 [X (Twitter)](https://x.com/sire_prince_7) |

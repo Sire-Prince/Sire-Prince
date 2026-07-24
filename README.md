@@ -1,4 +1,4 @@
-# Prince Akpadie (sire prince) 💻
+# Prince Akpadie (sire prince) 
 
 ### Software Developer | Agile Strategist | Business-Focused Engineer
 I bridge the gap between technical execution and business strategy.
